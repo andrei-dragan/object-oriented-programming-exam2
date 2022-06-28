@@ -1,0 +1,9 @@
+Pisces,Apus,77,99,245
+Cepheus,Chamaeleon,45,78,101
+Nice,Chamaeleon,101,101,101
+AnewStar,Chamaeleon,101,101,101
+Gemini,Chamaeleon,99,156,191
+Leo,Chamaeleon,102,77,305
+Cetus,Chamaeleon,78,456,500
+Sagittarius,Horologium,78,99,250
+Crater,Horologium,99,101,300
